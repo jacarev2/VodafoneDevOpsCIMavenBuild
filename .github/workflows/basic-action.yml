@@ -1,4 +1,4 @@
-name: Basic Action Workflow
+name: Basic Action Workflow P2_2
 run-name: GitHub Actions Reusable Workflow
 on: push
 jobs:
