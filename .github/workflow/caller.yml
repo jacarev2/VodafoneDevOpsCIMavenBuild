@@ -1,5 +1,5 @@
 
-name: Reusable Workflow Caller 3
+name: Reusable Workflow Caller
 on:
   push:
 jobs:
