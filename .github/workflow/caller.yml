@@ -4,4 +4,4 @@ on:
   push:
 jobs:
   Reusable-caller-job:
-    uses: ./.github/workflows/maven-cache.yml
+    uses: ./.github/workflow/maven-cache.yml
