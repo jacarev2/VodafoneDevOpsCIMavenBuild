@@ -1,4 +1,4 @@
-name: Conditional Worflow Excution
+name: Conditional Worflow Excution 2
 run-name: GitHub Actions Reusable Workflow
 on: [push]
 jobs:
