@@ -1,0 +1,7 @@
+name: Reusable Workflow Caller
+run-name: GitHub Actions reusable Workflow
+on:
+  push:
+jobs:
+  Reusable-caller-job:
+    uses: ./.github/workflows/workflow.yml
