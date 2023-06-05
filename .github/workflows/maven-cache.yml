@@ -1,7 +1,8 @@
 name: Docker image Build Process
 
 on:
-  push:
+  workflow_dispatch:
+  workflow_call:
 
 jobs:
   docker:
