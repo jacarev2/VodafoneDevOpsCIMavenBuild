@@ -2,7 +2,9 @@ name: Reusable Workflow Caller
 
 on:
   push:
+  workflow_call:
 
 jobs:
   Reusable-caller-job:
     uses: ./.github/workflows/maven-cache.yml
+    secrets: inherit
